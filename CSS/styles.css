@@ -1,0 +1,35 @@
+.slide {
+    height: 500px;
+}
+
+.slide-1 {
+background-image: url("../IMG/pexels-craig-adderley-1563356.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.slide-2 {
+    background-image: url(../IMG/pexels-justin-hamilton-92248.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.slide-3 {
+    background-image:url(../IMG/pexels-maizal-najmi-561201.jpg) ;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.slide-4 {
+    background-image:url(../IMG/pexels-nout-gons-248159.jpg) ;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
